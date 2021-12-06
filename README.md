@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vaishali Dwivedi</h1>
 <h3 align="center">A passionate, enthusiastic frontend developer from India.</h3>
