@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vaishalidwivedi03@gmail.com**
 
-- 📄 Know about my experiences - Web Development Intern at 24H Solver
+- 📄 Know about my experiences - **Web Development Intern at 24H Solver**
 
 - ⚡ Fun fact **I still watch Doraemon**
 
